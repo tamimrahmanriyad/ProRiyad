@@ -36,15 +36,15 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         strings: ["Technical Support", "User Support", "System Maintenance", "Account Management", "Network Support", "Security", "Backup & Recovery", "Documentation"],
-        typeSpeed: 95,
-        backSpeed: 55,
+        typeSpeed: 100,
+        backSpeed: 50,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
         strings: ["Technical Support", "User Support", "System Maintenance", "Account Management", "Network Support", "Security", "Backup & Recovery", "Documentation"],
-        typeSpeed: 95,
-        backSpeed: 55,
+        typeSpeed: 100,
+        backSpeed: 50,
         loop: true
     });
 
